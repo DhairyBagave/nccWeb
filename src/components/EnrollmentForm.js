@@ -174,6 +174,7 @@ function EnrollmentForm() {
           <button type="submit">Submit</button>
         </form>
       )}
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLScLRFMBq7fdOT-tQUXIZ90SVqjXKuLfZvFFVvMQSwty8SYShA/viewform"><button> <FaHandPointRight />  Enroll by Google Form</button></a>
       <a href="https://chat.whatsapp.com/BetQtX7sHcKHzkr2DRAibx"><button> <FaHandPointRight />  Whatsapp Group For Further Instructions</button></a>
     </div>
   );
